@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Sou **Emanuel Lisandro**, engenheiro de software atuando no setor bancário, com foco em **Java + Spring Boot**. Tenho experiência construindo **dashboards**, integrações com **APIs**, e soluções para sistemas financeiros — incluindo projetos relacionados ao **PIX**.
-Além disso, estou me dedicando a aprender **Android Studio com Kotlin**, aprofundando nos seguintes tópicos:  
+Além disso, estou me dedicando a aprender **Android Studio com Kotlin**.
 Curto desenvolver projetos práticos, bem documentados e com foco em **performance**, **segurança** e **experiência do usuário**.
 
 ---
@@ -48,5 +48,5 @@ Curto desenvolver projetos práticos, bem documentados e com foco em **performan
 
 ### 🌐 Onde me encontrar
 - **GitHub:** [github.com/EmanuelSLisandro](https://github.com/EmanuelSLisandro)
-- **LinkedIn:** [linkedin.com/emanuel-lisandro/](https://www.linkedin.com/in/emanuel-lisandro)
+- **LinkedIn:** [linkedin.com/emanuel-lisandro](https://www.linkedin.com/in/emanuel-lisandro)
 - **E-mail:** emanuellisandro@gmail.com
