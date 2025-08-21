@@ -47,6 +47,6 @@ Curto desenvolver projetos práticos, bem documentados e com foco em **performan
 ---
 
 ### 🌐 Onde me encontrar
-- **GitHub:** [github.com/fwl2k](https://github.com/fwl2k)
-- **LinkedIn:** *adicione seu link aqui*
-- **E-mail:** *adicione seu e-mail aqui*
+- **GitHub:** [github.com/EmanuelSLisandro](https://github.com/EmanuelSLisandro)
+- **LinkedIn:** [linkedin.com/emanuel-lisandro/](https://www.linkedin.com/in/emanuel-lisandro/)
+- **E-mail:** emanuellisandro@gmail.com
